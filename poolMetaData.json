@@ -2,5 +2,6 @@
 "name": "Cardano Colombia",
 "description": "We help guarantee children’s education, improve decentralization with our Colombian based server, and spread the word in spanish.",
 "ticker": "CCOL",
-"homepage": "https://www.cardanocolombia.com.co"
+"homepage": "https://www.cardanocolombia.com.co",
+"extended": "https://raw.githubusercontent.com/AndresFQuinteroG/ccol/main/Extended"
 }
